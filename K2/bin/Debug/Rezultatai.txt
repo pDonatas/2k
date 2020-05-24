@@ -1,0 +1,12 @@
+Nerikiuotas sąrašas:
+Markė                Modelis              Kaina               
+Chevrolet            Captiva              8000                
+Nissan               Primera              7500                
+Aston                Martin               7500                
+BMW                  x6                   10000               
+Rikiuotas sąrašas:
+Markė                Modelis              Kaina               
+BMW                  x6                   10000               
+Chevrolet            Captiva              8000                
+Aston                Martin               7500                
+Nissan               Primera              7500                

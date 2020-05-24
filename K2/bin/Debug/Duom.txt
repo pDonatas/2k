@@ -1,0 +1,5 @@
+﻿Audi;simtas;5000
+Chevrolet;Captiva;8000
+Nissan;Primera;7500
+Aston;Martin;7500
+BMW;x6;10000
